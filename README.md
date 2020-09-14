@@ -1,5 +1,5 @@
 # vscode-repository-creator
-This project consists on a vscode extension to create our project structure with all can be set in launch
+This project consists on a vscode extension to create our project structure where all can be set at launch
 
 ## Usage
 The usage of this extension is to set different project structures in a list, and we can call them from the vscode to add them to our current working folder.
